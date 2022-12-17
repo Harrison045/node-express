@@ -8,3 +8,11 @@ h1{
     text-decoration: underline;
 }
 
+form{
+    margin: 1px;
+    padding:1px;
+    background-colour: red;
+    colour: #fff;
+    opacity: 50%;
+}
+
